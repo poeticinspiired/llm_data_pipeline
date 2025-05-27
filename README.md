@@ -17,7 +17,7 @@ The pipeline handles the entire data lifecycle:
 
 ## Architecture
 
-![Pipeline Architecture](docs/images/architecture_diagram.png)
+![image](https://github.com/user-attachments/assets/1428917d-cca1-4473-b2d9-93a312ffe4e6)
 
 The pipeline follows a modular architecture with the following components:
 
