@@ -1,0 +1,4 @@
+# Sample data for validation
+{"id": "sample-1", "text": "This is a sample legal document 1 for validation testing. The case of Smith v. Jones, 123 U.S. 456 (2020), established an important precedent. The Court held that under 42 U.S.C. § 1983, plaintiffs must show...", "court": "Supreme Court", "year": 2020}
+{"id": "sample-2", "text": "This is a sample legal document 2 for validation testing. The case of Brown v. Board of Education, 347 U.S. 483 (1954), established an important precedent. The Court held that separate educational facilities are inherently unequal...", "court": "Supreme Court", "year": 2021}
+{"id": "sample-3", "text": "This is a sample legal document 3 for validation testing. The case of Roe v. Wade, 410 U.S. 113 (1973), established an important precedent. The Court held that the Constitution of the United States protects a pregnant woman's liberty...", "court": "Supreme Court", "year": 2022}
